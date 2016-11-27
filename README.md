@@ -4,12 +4,12 @@ This projects seeks to be the spiritual successor to the [Hacking Against Slaver
 
 ## Roadmap
 
-- [ x ] First commit and creating the first scraper.
-- [   ] Define a standardized structure for scraping across several websites.
-- [   ] Scrape local, federal, and civil society databases. The more, the better.
-- [   ] Explore how FB could be used to increase the breadth and depth of analyses.
-- [   ] Identify simple patterns in ad metadata.
-- [   ] Simple AI analysis assited by NLP and basic image recognition.
+- [x] First commit and creating the first scraper.
+- [ ] Define a standardized structure for scraping across several websites.
+- [ ] Scrape local, federal, and civil society databases. The more, the better.
+- [ ] Explore how FB could be used to increase the breadth and depth of analyses.
+- [ ] Identify simple patterns in ad metadata.
+- [ ] Simple AI analysis assited by NLP and basic image recognition.
 
 
 ## Credits
